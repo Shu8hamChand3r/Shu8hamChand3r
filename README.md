@@ -5,9 +5,7 @@
 
 <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/shubhamchander8.png" width="300" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Shubham Chander is cyber security consultant with a profound interest in technology and a dedication to solving complex cyber security problems.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
