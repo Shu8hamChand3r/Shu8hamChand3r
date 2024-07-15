@@ -1,6 +1,7 @@
 # Hello, I'm Shubham Chander
 <a href="https://www.linkedin.com/in/shubham-chander1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+<a href="ttps://tryhackme.com/p/Shubhamm"><img src="https://tryhackme-badges.s3.amazonaws.com/Shubhamm.png" alt="TryHackMe"/></a>
 [Brief Introduction - Remove this afterwards]
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
