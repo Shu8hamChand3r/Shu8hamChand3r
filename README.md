@@ -1,7 +1,9 @@
 # Hello, I'm Shubham Chander
 <a href="https://www.linkedin.com/in/shubham-chander1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a href="https://tryhackme.com/p/Shubhamm"> </a>
+<a href="https://tryhackme.com/p/Shubhamm"><img src="https://tryhackme-badges.s3.amazonaws.com/Shubhamm.png" alt="TryHackMe" /></a>
+
+<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/shubhamchander8.png" width="300" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
