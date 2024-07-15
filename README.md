@@ -4,28 +4,7 @@
 <a href="https://tryhackme.com/p/Shubhamm"><img src="https://tryhackme-badges.s3.amazonaws.com/shu8h4mch4nd3r.png" alt="TryHackMe" /></a>
 
 <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/shu8h4mch4nd3r.png" width="300" /></a>
-
-
-name: TryHackMe Update Badge
-
-on:
-  schedule:
-    # Make it run every 24 hour
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-jobs:
-  tryhackme-badge-update:
-    name: Update this repo's tryhackme badge with the latest tryhackme image badge
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: p4p1/tryhackme-badge-workflow@main
-        with:
-          # Replace with your tryhackme username
-          username: "<USERNAME>"
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} # Do not paste your github token here - this is a placeholder
-                                                  # and will pull your github token automatically
-                                                  
+                                
 Shubham Chander is cyber security consultant with a profound interest in technology and a dedication to solving complex cyber security problems.
 
 ## Objective
